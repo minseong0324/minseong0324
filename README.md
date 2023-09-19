@@ -30,6 +30,8 @@
 
 ## 🌿 Experience
 ---
+### GDSC DGU 1기 WEB/APP General Member
+### Goormthon univ. DGU 1기 Front-End
 ### 특수학급 학생 IT교육 멘토링 멘토
 ### Clipper 1기 운영진
 ### Balken Member
