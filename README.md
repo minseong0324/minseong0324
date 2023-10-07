@@ -17,7 +17,8 @@
 
 ## 🚀 Projects:
 
-### maplemailbox, comming soon...
+### https://maplemailbox.com
+### https://mili-mate.com
 
 ## 🛠️ Tech:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,6 +35,7 @@
 ### Goormthon univ. DGU 1기 Front-End
 ### 특수학급 학생 IT교육 멘토링 멘토
 ### Clipper 1기 운영진
+### Clipper 1기 부회장
 ### Balken Member
 ### 동국대학교 Hi-SW 봉사단 9기
 ### Clipper 0기 Front-End
