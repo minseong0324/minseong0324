@@ -42,6 +42,10 @@
 ### Clipper 0기 Front-End
 ### Nexon X Likelion MSW Super Hackathon
 
+## 🏆 Awards
+---
+### 9oormthon univ. 1st 단풍톤 최우수상
+
 ## 👋  Blog
 <a href="https://velog.io/@kwan0324"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
