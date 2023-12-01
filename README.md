@@ -52,5 +52,11 @@
 ## 👋  Blog
 <a href="https://velog.io/@kwan0324"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
+<h3>🏃‍♂️Stats</h3>
+
+<hr/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseong0324&show_icons=true&theme=테마)
+
 </div>
 
