@@ -1,6 +1,8 @@
 
 <div align="center">
 
+[![Kidari Stats](https://commiters-team03-web.vercel.app/api/stat?nickname=minseong)](https://commiters-team03-web.vercel.app/minseong)
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=minseong0324%20&fontSize=90)
 
 ### Hi there 👋
