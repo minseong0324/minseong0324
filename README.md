@@ -37,6 +37,7 @@
 
 ## 🌿 Experience
 ---
+### GDSC Snowflowerthon Front-End
 ### Donggukthon 1기 Front-End
 ### GDSC DGU 1기 WEB/APP General Member
 ### Goormthon univ. DGU 1기 Front-End
@@ -51,6 +52,8 @@
 ## 🏆 Awards
 ---
 ### 9oormthon univ. 1st 단풍톤 최우수상
+### GDSC Snowflowerthon 우수상
+
 
 ## 👋  Blog
 <a href="https://velog.io/@kwan0324"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
