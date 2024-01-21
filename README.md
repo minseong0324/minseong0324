@@ -50,7 +50,7 @@
 #### 특수학급 학생 IT교육 멘토링 멘토
 #### Clipper 1기 운영진
 #### Clipper 1기 부회장
-#### (주)밡켄쉐어링 Front-End
+#### (주)발켄 모빌리티 Front-End
 #### 동국대학교 Hi-SW 봉사단 9기
 #### Clipper 0기 Front-End
 #### Nexon X Likelion MSW Super Hackathon
