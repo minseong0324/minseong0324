@@ -42,11 +42,11 @@
 
 ## 🌿 Experience
 
-#### 9oormthon univ. 2기 중앙 운영단(미르미 운영단) PM
+#### 9oormthonUNIV 2기 중앙 운영단(미르미 운영단) PM
 #### GDSC Snowflowerthon Front-End
 #### Donggukthon 1기 Front-End
 #### GDSC DGU 1기 WEB/APP General Member
-#### 9oormthon univ. 1기 Front-End
+#### 9oormthonUNIV 1기 Front-End
 #### 특수학급 학생 IT교육 멘토링 멘토
 #### Clipper 1기 운영진
 #### Clipper 1기 부회장
@@ -60,7 +60,7 @@
 ## 🏆 Awards
 
 #### GDSC Snowflowerthon 우수상
-#### 9oormthon univ. 1기 단풍톤 최우수상
+#### 9oormthonUNIV 1기 단풍톤 최우수상
 
 ---
 
