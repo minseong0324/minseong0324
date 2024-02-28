@@ -42,6 +42,8 @@
 
 ## 🌿 Experience
 
+#### SKT DEVOCEAN YOUNG 3기
+#### Toss 프론트엔드 다이빙 클럽 5기
 #### 9oormthonUNIV 2기 중앙 운영단(미르미 운영단) PM
 #### GDSC Snowflowerthon Front-End
 #### Donggukthon 1기 Front-End
