@@ -1,73 +1,62 @@
+# Minseong Kim 김민성
+### Web Frontend Developer
+> 안녕하세요. 빠른 성장을 추구하는 프론트엔드 개발자 김민성입니다.
 
-<div align="center" style="font-size: 20px;">
+- Contact | kwan03240324@gmail.com
+- Blog | [https://velog.io/@kwan0324](https://velog.io/@kwan0324)
+<br>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=minseong0324%20&fontSize=90)
+### ⚙️ Stack
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> 
+<br><br><br>
 
+### 🧑🏻‍💻 Work Place
+#### (주)발켄쉐어링 | Frontend Devloper Lead | 2023. 05. ~ now
+<br>
 
-#### 부족한 실력을 `끈기`와 `열정`으로 채워나가는 개발자 김민성입니다. <br /> <br />
-#### 아이디어가 떠오르면 실행에 옮기려 노력합니다.  <br /> <br />
-#### 내가 편한 것이 아닌, `유저가 편한 것`을 추구합니다.  <br /> <br />
-#### 혼자만 알아가는 것이 아닌, `공유`하고 성장하는 문화를 추구합니다.  <br /> <br />
-#### 다양한 활동을 통해 인사이트를 얻는 것을 즐깁니다. 저 또한 인사이트를 주는 사람이 되고자 합니다.  <br /> <br />
+### 🎯 Experience
+#### 2024
+Toss Frontend Diving Club 5th | 2024. 02.
+</br></br>
+SKT DEVOCEAN YOUNG 3rd | 2024. 02. ~ now 
+</br></br>
+Snow Flower Hackathon Frontend | 2024. 01.
 
----
+#### 2023
+Dongguk Hackathon Frontend | 2023. 12.
+</br></br>
+Google Developer Student Clubs Dongguk Univ. 1st WEB/APP General Member | 2023. 09. ~ now
+</br></br>
+goormthon univ 1st Frontend | 2023. 09. ~ 2023. 12.
+</br></br>
+웹 개발 연합동아리 Clipper 0 ~ 1기 부회장 | 2023. 04. ~ 2024. 02.
+</br></br>
+신사중학교 특수학급 IT 교육 멘토 | 2023. 09. ~ 2023. 12.
+</br></br>
+동국대학교 Hi-SW 봉사단 9기 | 2023. 02. ~ 2024. 02.
 
-## 📚 Want to Learn:
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+#### 2022
+Nexon X Likelion MSW Super Hackathon | 2022. 09. ~ 2022. 12.
 
----
+<br>
 
-## 🚀 Projects:
+### 🏆 Awards
+#### goormthon univ 1기 최우수상
+#### Google Developer Student Clubs Snowflowerthon 우수상
 
-### https://cookiehouse.site
-### https://snowmailbox.com
-### https://heartu-signal.com
-### https://mili-mate.com
-### https://maplemailbox.com
+<br>
 
----
+<!--
+**akimcse/akimcse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## 🛠️ Tech:
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+Here are some ideas to get you started:
 
----
-
-## 🌿 Experience
-
-#### SKT DEVOCEAN YOUNG 3기
-#### Toss 프론트엔드 다이빙 클럽 5기
-#### 9oormthonUNIV 2기 중앙 운영단(미르미 운영단) PM
-#### GDSC Snowflowerthon Front-End
-#### Donggukthon 1기 Front-End
-#### GDSC DGU 1기 WEB/APP General Member
-#### 9oormthonUNIV 1기 Front-End
-#### 특수학급 학생 IT교육 멘토링 멘토
-#### Clipper 1기 운영진
-#### Clipper 1기 부회장
-#### (주)발켄 모빌리티 Front-End
-#### 동국대학교 Hi-SW 봉사단 9기
-#### Clipper 0기 Front-End
-#### Nexon X Likelion MSW Super Hackathon
-
----
-
-## 🏆 Awards
-
-#### GDSC Snowflowerthon 우수상
-#### 9oormthonUNIV 1기 단풍톤 최우수상
-
----
-
-## 👋  Blog
-<a href="https://velog.io/@kwan0324"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
-
-</div>
-
+- 🔭 I’m currently working on ...
+- 🌱 
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
