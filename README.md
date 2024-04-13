@@ -11,7 +11,7 @@
 <br><br><br>
 
 ### 🧑🏻‍💻 Work Place
-#### (주)발켄쉐어링 | Frontend Devloper Lead | 2023. 05. ~ now
+#### (주)발켄쉐어링 | Frontend Developer Lead | 2023. 05. ~ now
 <br>
 
 ### 🎯 Experience
