@@ -12,8 +12,6 @@
 
 ### 🎯 Experience
 #### 2024
-Toss Frontend Diving Club 5th | 2024. 02.
-</br></br>
 SKT DEVOCEAN YOUNG 3rd | 2024. 02. ~ now 
 </br></br>
 Snow Flower Hackathon Frontend | 2024. 01.
