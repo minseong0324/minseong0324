@@ -1,3 +1,4 @@
+
 # Minseong Kim 김민성
 ### Web Frontend Developer
 > 안녕하세요. 빠른 성장을 추구하는 프론트엔드 개발자 김민성입니다.
@@ -7,11 +8,17 @@
 <br>
 
 ### ⚙️ Stack
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<br><br><br>
+<img src='https://github-widgetbox.vercel.app/api/skills?software=html,css,js,ts,react' width=400 />
+<br>
+
+### 🧑🏻‍💻 Work Place
+#### (주)발켄쉐어링 | Frontend Developer | 2023. 05. ~ now
+<br>
 
 ### 🎯 Experience
 #### 2024
+Toss Frontend Diving Club 5th | 2024. 02.
+</br></br>
 SKT DEVOCEAN YOUNG 3rd | 2024. 02. ~ now 
 </br></br>
 Snow Flower Hackathon Frontend | 2024. 01.
