@@ -19,7 +19,7 @@
 <br>
 
 ### 🎯 Experience
-#### [SKT DEVOCEAN Tech 지식 공유](https://velog.io/@kwan0324)
+#### [SKT DEVOCEAN Tech 지식 공유](https://devocean.sk.com/blog/techBoardDetail.do?ID=166585&boardType=techBlog&searchData=&searchDataMain=WEB_WAS&page=&subIndex=&searchText=&techType=&searchDataSub=)
 #### goormthon univ 1기 최우수상
 #### Google Developer Student Clubs 눈꽃톤 우수상
 
