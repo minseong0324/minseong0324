@@ -1,7 +1,7 @@
 
 # Minseong Kim 김민성
 ### Web Frontend Developer
-> 안녕하세요. 빠른 성장을 추구하는 프론트엔드 개발자 김민성입니다.
+> 안녕하세요. 작은 UX 개선이 모여 제품이 성장한다고 믿는 프론트엔드 개발자 김민성입니다.
 
 - Contact | kwan03240324@gmail.com
 - Blog | [https://velog.io/@kwan0324](https://velog.io/@kwan0324)
@@ -12,36 +12,16 @@
 <br>
 
 ### 🧑🏻‍💻 Work Place
-#### (주)발켄쉐어링 | Frontend Developer | 2023. 05. ~ now
+#### (주)발켄모빌리티 | Frontend Developer | 2023. 05. ~ now
+
+<img src="https://github.com/user-attachments/assets/345ff90a-c002-4a7d-8610-0668f9a65f54" alt="발켄M 아이콘" width="16" height="16" /> 발켄M | IOS: [Link](https://apps.apple.com/kr/app/%EB%B0%9C%EC%BC%84m/id6450990490) | AOS: [Link](https://play.google.com/store/apps/details?id=com.balkensharing)
+
 <br>
 
 ### 🎯 Experience
-#### 2024
-Toss Frontend Diving Club 5th | 2024. 02.
-</br></br>
-SKT DEVOCEAN YOUNG 3rd | 2024. 02. ~ now 
-</br></br>
-Snow Flower Hackathon Frontend | 2024. 01.
-
-#### 2023
-Dongguk Hackathon Frontend | 2023. 12.
-</br></br>
-Google Developer Student Clubs Dongguk Univ. 1st WEB/APP General Member | 2023. 09. ~ now
-</br></br>
-goormthon univ 1st Frontend | 2023. 09. ~ 2023. 12.
-</br></br>
-웹 개발 연합동아리 Clipper 0 ~ 1기 부회장 | 2023. 04. ~ 2024. 02.
-</br></br>
-신사중학교 특수학급 IT 교육 멘토 | 2023. 09. ~ 2023. 12.
-</br></br>
-동국대학교 Hi-SW 봉사단 9기 | 2023. 02. ~ 2024. 02.
-
-
-<br>
-
-### 🏆 Awards
+#### [SKT DEVOCEAN Tech 지식 공유](https://velog.io/@kwan0324)
 #### goormthon univ 1기 최우수상
-#### Google Developer Student Clubs Snowflowerthon 우수상
+#### Google Developer Student Clubs 눈꽃톤 우수상
 
 <br>
 
