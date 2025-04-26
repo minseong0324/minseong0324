@@ -1,8 +1,5 @@
 
 ## Minseong Kim 김민성
-### Web Frontend Developer
-안녕하세요. 작은 UX 개선이 모여 제품이 성장한다고 믿는 프론트엔드 개발자 김민성입니다.
-
 
 ### 🛠️ Skills
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next&perline=6" alt="Tech Stack" /> 
