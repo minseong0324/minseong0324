@@ -5,7 +5,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next&perline=6" alt="Tech Stack" /> 
 
 ### 🏢 Work Place
-#### Viva Republica (토스) | Frontend Developer Assistant (UX) | 2024. 10. - now
+#### Viva Republica (토스) | Frontend Developer Assistant (UX) | 2024. 10. - 2025. 06.
 
 #### (주)발켄모빌리티 | Frontend Developer | 2023. 05. - 2024. 10
 
