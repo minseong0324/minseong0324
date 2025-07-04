@@ -7,7 +7,7 @@
 ### 🏢 Work Place
 #### Viva Republica (토스) | Frontend Developer Assistant (UX) | 2024. 10. - 2025. 06.
 
-#### (주)발켄모빌리티 | Frontend Developer | 2023. 05. - 2024. 10
+#### (주)발켄모빌리티 | Frontend Developer | 2024. 04. - 2024. 10.
 
 - <img src="https://github.com/user-attachments/assets/345ff90a-c002-4a7d-8610-0668f9a65f54" alt="발켄M 아이콘" width="16" height="16" /> 발켄M | IOS: [Link](https://apps.apple.com/kr/app/%EB%B0%9C%EC%BC%84m/id6450990490) | AOS: [Link](https://play.google.com/store/apps/details?id=com.balkensharing) ( - ver. 2.4.0)
 
