@@ -5,7 +5,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next&perline=6" alt="Tech Stack" /> 
 
 ### 🏢 Work Place
-#### 미리디 (miridih) | Frontend Engineer | 2025.07 - now
+#### 미리디 (miridih) | Frontend Engineer | 2025.07. - now
 
 #### Viva Republica (토스) | Frontend Developer Assistant (UX) | 2024. 10. - 2025. 06.
 
